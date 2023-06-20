@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student id="st-001">
+		<first_name lang="en">Alex</first_name>
+		<last_name lang="en">Smith</last_name>
+		<citizenship>Ukrainian</citizenship>
+		<birthday>01.01.2003</birthday>
+		<university>
+			<university_id>ua001</university_id>
+			<specialization_details>
+				<department>Computer science</department>
+				<faculty>Software Engineering</faculty>
+			</specialization_details>
+			<form_of_education>full-time</form_of_education>
+		</university >
+		<social_security_number>DBA-044123</social_security_number>
+		<age>20</age>
+		<gender>M</gender>
+		<address>
+			<country>Ukraine</country>
+			<country_iso_code>UA</country_iso_code>
+			<city>Kiyv</city>
+			<postal_code>00000</postal_code>
+			<street>Zabolotnogo 32</street>
+		</address>
+		<contacts>
+			<email>alex007smitty@gmail.com</email>
+			<phones>
+				<mobile_number>+38(099)-999-99-99</mobile_number>
+				<landline_number>+38(044)-555-55-55</landline_number>
+			</phones>
+		</contacts>
+	</student>
+	<student id="st-002">
+		<first_name lang="en">John</first_name>
+		<last_name lang="en">Smith</last_name>
+		<citizenship>Great Britian</citizenship>
+		<birthday>02.05.2002</birthday>
+		<university>
+			<university_id>uk011</university_id>
+			<specialization_details>
+				<department>Historical</department>
+				<faculty>Archaeological</faculty>
+			</specialization_details>
+			<form_of_education>part-time</form_of_education>
+		</university >
+		<social_security_number>RBA-046123</social_security_number>
+		<age>21</age>
+		<gender>M</gender>
+		<address>
+			<country>United kingdom</country>
+			<country_iso_code>GB</country_iso_code>
+			<city>London</city>
+			<postal_code>000000</postal_code>
+			<street/>
+		</address>
+		<contacts>
+			<email>john02smitty@gmail.com</email>
+			<phones>
+				<mobile_number>+44(055)-999-99-99</mobile_number>
+				<landline_number>+44(020)-444-55-55</landline_number>
+			</phones>
+		</contacts>
+	</student>
+</students>
+

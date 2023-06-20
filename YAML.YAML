@@ -1,0 +1,62 @@
+students: 
+ student: 
+  - 
+   first_name: 
+    _lang: en
+    __text: Alex
+   last_name: 
+    _lang: en
+    __text: Smith
+   citizenship: Ukrainian
+   birthday: "01.01.2003"
+   university: 
+    university_id: ua001
+    specialization_details: 
+     department: "Computer science"
+     faculty: "Software Engineering"
+    form_of_education: "full-time"
+   social_security_number: "DBA-044123"
+   age: 20
+   gender: M
+   address: 
+    country: Ukraine
+    country_iso_code: UA
+    city: Kiyv
+    postal_code: 00000
+    street: "Zabolotnogo 32"
+   contacts: 
+    email: "alex007smitty@gmail.com"
+    phones: 
+     mobile_number: "+38(099)-999-99-99"
+     landline_number: "+38(044)-555-55-55"
+   _id: "st-001"
+  - 
+   first_name: 
+    _lang: en
+    __text: John
+   last_name: 
+    _lang: en
+    __text: Smith
+   citizenship: "Great Britian"
+   birthday: "02.05.2002"
+   university: 
+    university_id: uk011
+    specialization_details: 
+     department: Historical
+     faculty: Archaeological
+    form_of_education: "part-time"
+   social_security_number: "RBA-046123"
+   age: 21
+   gender: M
+   address: 
+    country: "United kingdom"
+    country_iso_code: GB
+    city: London
+    postal_code: 000000
+    street: ""
+   contacts: 
+    email: "john02smitty@gmail.com"
+    phones: 
+     mobile_number: "+44(055)-999-99-99"
+     landline_number: "+44(020)-444-55-55"
+   _id: "st-002"
